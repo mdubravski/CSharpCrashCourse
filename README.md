@@ -58,8 +58,6 @@ This crashcourse coves topics
 
 ## Authors
 
-Contributors names and contact info
-
 Michael Dubravski  
 
 ## Acknowledgments
