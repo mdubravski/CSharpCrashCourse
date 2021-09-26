@@ -1,6 +1,6 @@
 # C# Crash Course
 
-Code examples and projects from Bro Code's C# Course
+Code examples and projects from [Bro Code's C# Course](https://www.youtube.com/watch?v=wxznTygnRfQ&t=1440s)
 
 ## Description
 
